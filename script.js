@@ -323,7 +323,7 @@ setInterval(() => { if(continuousFireworks && Math.random()<0.5) randomFirework(
 
 /* ---------- 6. COUNTDOWN TIMER ---------- */
 // CUSTOMIZE: set her real birthday (month is 0-indexed: 0=Jan ... 11=Dec)
-const BIRTHDAY_MONTH = 08;  // December
+const BIRTHDAY_MONTH = 07;  // December
 const BIRTHDAY_DAY = 13;
 
 function getNextBirthday(){
